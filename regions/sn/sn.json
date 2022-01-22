@@ -9,7 +9,7 @@
     "sources": {
         "openmaptiles": {
             "type": "vector",
-            "url": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/retrobuilding/regions/sn/sn.tilejson"
+            "url": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/sn/sn.tilejson"
         },
         "natural_earth_shaded_relief": {
             "maxzoom": 6,
