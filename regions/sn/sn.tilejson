@@ -1,6 +1,6 @@
 {
   "attribution": "<a href=\"http://www.openmaptiles.org/\" target=\"_blank\">&copy; OpenMapTiles</a> <a href=\"http://www.openstreetmap.org/about/\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
-  "center": "11.879965,51.992735,14",
+  "center": "13.458815,50.92565,14",
   "description": "Extract from https://openmaptiles.org",
   "maxzoom": 14,
   "minzoom": 0,
@@ -18,7 +18,7 @@
     51.6838
   ],
   "planettime": "1499040000000",
-  "basename": "2017-07-03_germany_sachsen-anhalt",
+  "basename": "2017-07-03_germany_sachsen",
   "profile": "mercator",
   "scale": 1,
   "tiles": [
