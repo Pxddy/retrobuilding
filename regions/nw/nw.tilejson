@@ -22,7 +22,7 @@
   "profile": "mercator",
   "scale": 1,
   "tiles": [
-    "https://raw.githubusercontent.com/Pxddy/retrobuilding/tiles/deutschland/{z}/{x}/{y}.pbf"
+    "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/tiles/deutschland/{z}/{x}/{y}.pbf"
   ],
   "tilejson": "2.0.0",
   "scheme": "xyz",
