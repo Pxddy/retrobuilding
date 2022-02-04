@@ -2,7 +2,7 @@
   {
     "id": "90cd7097-8e08-43a7-a04e-86d03712bc54",
     "name": "Brandenburg",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/bb/bb.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/bb/bb.json",
     "size": "250 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -14,7 +14,7 @@
   {
     "id": "e01a9373-5d8d-4ea6-87c5-b3985c2a2747",
     "name": "Berlin",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/be/be.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/be/be.json",
     "size": "115 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -26,7 +26,7 @@
   {
     "id": "bda86483-45cc-459a-91fe-dc388fe62da2",
     "name": "Baden-Württemberg",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/bw/bw.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/bw/bw.json",
     "size": "430 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -38,7 +38,7 @@
   {
     "id": "45971708-3076-4cc4-a6e0-cafc21f0f24c",
     "name": "Bayern ",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/by/by.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/by/by.json",
     "size": "795 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -50,7 +50,7 @@
   {
     "id": "bd89b070-73c6-4cbf-a9f8-97d569d55318",
     "name": "Bremen",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/hb/hb.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/hb/hb.json",
     "size": "50 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -62,7 +62,7 @@
   {
     "id": "624e752f-6aee-40d3-8e84-622bd256a585",
     "name": "Hessen",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/he/he.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/he/he.json",
     "size": "315 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -74,7 +74,7 @@
   {
     "id": "a064e25a-9071-4d95-a717-29855320173d",
     "name": "Hamburg",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/hh/hh.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/hh/hh.json",
     "size": "70 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -86,7 +86,7 @@
   {
     "id": "19af44fd-cb11-4726-96a7-60ce97ead867",
     "name": "Mecklenburg-Vorpommern",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/mv/mv.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/mv/mv.json",
     "size": "145 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -98,7 +98,7 @@
   {
     "id": "d27d5d32-ba24-47e1-8745-826dabd77a3b",
     "name": "Niedersachsen ",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/ni/ni.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/ni/ni.json",
     "size": "725 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -110,7 +110,7 @@
   {
     "id": "c8a4c7aa-3897-4116-9bcf-a23e40e60fa4",
     "name": "Nordrhein-Westfalen",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/nw/nw.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/nw/nw.json",
     "size": "660 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -122,7 +122,7 @@
   {
     "id": "aa18ee29-d17f-44d2-a4ac-3200eb1c43bb",
     "name": "Rheinland-Pfalz",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/rp/rp.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/rp/rp.json",
     "size": "300 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -134,7 +134,7 @@
   {
     "id": "08b263d5-a9b3-4398-94e2-a248be398354",
     "name": "Schleswig-Holstein",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/sh/sh.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/sh/sh.json",
     "size": "210 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -146,7 +146,7 @@
   {
     "id": "376c4972-4f0d-4f80-a26e-828f83ce22a5",
     "name": "Saarland ",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/sl/sl.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/sl/sl.json",
     "size": "50 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -158,7 +158,7 @@
   {
     "id": "9e6f4dea-fced-4806-b45c-2f22533bec8d",
     "name": "Sachsen",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/sn/sn.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/sn/sn.json",
     "size": "245 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -170,7 +170,7 @@
   {
     "id": "cd864d23-d0fb-493a-9073-78f518222dc8",
     "name": "Sachsen-Anhalt",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/st/st.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/st/st.json",
     "size": "205 MB",
     "minZoom": 0,
     "maxZoom": 14,
@@ -182,7 +182,7 @@
   {
     "id": "f2529a92-7abe-4f4e-986b-a37fcd32235a",
     "name": "Thüringen",
-    "styleURL": "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/regions/v1/th/th.json",
+    "styleURL": "https://raw.githubusercontent.com/Pxddy/retrobuilding/main/regions/v1/th/th.json",
     "size": "185 MB",
     "minZoom": 0,
     "maxZoom": 14,
