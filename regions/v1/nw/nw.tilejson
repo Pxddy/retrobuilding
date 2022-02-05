@@ -17,7 +17,6 @@
   "tiles": [
     "https://cdn.jsdelivr.net/gh/Pxddy/retrobuilding/tiles/nw/{z}/{x}/{y}.pbf"
   ],
-  "scheme": "tms",
   "name": "NordrheinWestfalenTiles",
   "format": "pbf",
   "basename": "nw.mbtiles",
