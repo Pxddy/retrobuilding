@@ -6,12 +6,12 @@
   "name": "ni",
   "format": "pbf",
   "bounds": [
-    8.974646,
-    47.26543,
-    13.84947,
-    50.56779
+    6.45099,
+    51.28559,
+    11.64342,
+    54.17288
   ],
-  "center": "11.4,48.9,1",
+  "center": "9.049988,52.751256,1",
   "minzoom": 0,
   "maxzoom": 14,
   "attribution": "<a href=\"https://www.openmaptiles.org/\" target=\"_blank\">&copy; OpenMapTiles</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
