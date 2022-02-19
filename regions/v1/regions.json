@@ -1,17 +1,5 @@
 [
   {
-    "id": "90cd7097-8e08-43a7-a04e-86d03712bc54",
-    "name": "Brandenburg",
-    "code": "bb",
-    "size": "345 MB"
-  },
-  {
-    "id": "e01a9373-5d8d-4ea6-87c5-b3985c2a2747",
-    "name": "Berlin",
-    "code": "be",
-    "size": "155 MB"
-  },
-  {
     "id": "bda86483-45cc-459a-91fe-dc388fe62da2",
     "name": "Baden-Württemberg",
     "code": "bw",
@@ -24,22 +12,34 @@
     "size": "840 MB"
   },
   {
+    "id": "e01a9373-5d8d-4ea6-87c5-b3985c2a2747",
+    "name": "Berlin",
+    "code": "be",
+    "size": "155 MB"
+  },
+  {
+    "id": "90cd7097-8e08-43a7-a04e-86d03712bc54",
+    "name": "Brandenburg",
+    "code": "bb",
+    "size": "345 MB"
+  },
+  {
     "id": "bd89b070-73c6-4cbf-a9f8-97d569d55318",
     "name": "Bremen",
     "code": "hb",
     "size": "30 MB"
   },
   {
-    "id": "624e752f-6aee-40d3-8e84-622bd256a585",
-    "name": "Hessen",
-    "code": "he",
-    "size": "415 MB"
-  },
-  {
     "id": "a064e25a-9071-4d95-a717-29855320173d",
     "name": "Hamburg",
     "code": "hh",
     "size": "40 MB"
+  },
+  {
+    "id": "624e752f-6aee-40d3-8e84-622bd256a585",
+    "name": "Hessen",
+    "code": "he",
+    "size": "415 MB"
   },
   {
     "id": "19af44fd-cb11-4726-96a7-60ce97ead867",
@@ -66,12 +66,6 @@
     "size": "360 MB"
   },
   {
-    "id": "08b263d5-a9b3-4398-94e2-a248be398354",
-    "name": "Schleswig-Holstein",
-    "code": "sh",
-    "size": "240 MB"
-  },
-  {
     "id": "376c4972-4f0d-4f80-a26e-828f83ce22a5",
     "name": "Saarland ",
     "code": "sl",
@@ -88,6 +82,12 @@
     "name": "Sachsen-Anhalt",
     "code": "st",
     "size": "280 MB"
+  },
+  {
+    "id": "08b263d5-a9b3-4398-94e2-a248be398354",
+    "name": "Schleswig-Holstein",
+    "code": "sh",
+    "size": "240 MB"
   },
   {
     "id": "f2529a92-7abe-4f4e-986b-a37fcd32235a",
