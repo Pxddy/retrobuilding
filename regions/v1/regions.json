@@ -3,96 +3,96 @@
     "id": "bda86483-45cc-459a-91fe-dc388fe62da2",
     "name": "Baden-Württemberg",
     "code": "bw",
-    "size": "530 MB"
+    "size": 551641088
   },
   {
     "id": "45971708-3076-4cc4-a6e0-cafc21f0f24c",
     "name": "Bayern ",
     "code": "by",
-    "size": "840 MB"
+    "size": 877858816
   },
   {
     "id": "e01a9373-5d8d-4ea6-87c5-b3985c2a2747",
     "name": "Berlin",
     "code": "be",
-    "size": "155 MB"
+    "size": 158441472
   },
   {
     "id": "90cd7097-8e08-43a7-a04e-86d03712bc54",
     "name": "Brandenburg",
     "code": "bb",
-    "size": "345 MB"
+    "size": 357568512
   },
   {
     "id": "bd89b070-73c6-4cbf-a9f8-97d569d55318",
     "name": "Bremen",
     "code": "hb",
-    "size": "30 MB"
+    "size": 31215616
   },
   {
     "id": "a064e25a-9071-4d95-a717-29855320173d",
     "name": "Hamburg",
     "code": "hh",
-    "size": "40 MB"
+    "size": 41029632
   },
   {
     "id": "624e752f-6aee-40d3-8e84-622bd256a585",
     "name": "Hessen",
     "code": "he",
-    "size": "415 MB"
+    "size": 432947200
   },
   {
     "id": "19af44fd-cb11-4726-96a7-60ce97ead867",
     "name": "Mecklenburg-Vorpommern",
     "code": "mv",
-    "size": "180 MB"
+    "size": 187985920
   },
   {
     "id": "d27d5d32-ba24-47e1-8745-826dabd77a3b",
     "name": "Niedersachsen ",
     "code": "ni",
-    "size": "865 MB"
+    "size": 904986624
   },
   {
     "id": "c8a4c7aa-3897-4116-9bcf-a23e40e60fa4",
     "name": "Nordrhein-Westfalen",
     "code": "nw",
-    "size": "685 MB"
+    "size": 716767232
   },
   {
     "id": "aa18ee29-d17f-44d2-a4ac-3200eb1c43bb",
     "name": "Rheinland-Pfalz",
     "code": "rp",
-    "size": "360 MB"
+    "size": 374824960
   },
   {
     "id": "376c4972-4f0d-4f80-a26e-828f83ce22a5",
     "name": "Saarland ",
     "code": "sl",
-    "size": "50 MB"
+    "size": 50016256
   },
   {
     "id": "9e6f4dea-fced-4806-b45c-2f22533bec8d",
     "name": "Sachsen",
     "code": "sn",
-    "size": "235 MB"
+    "size": 246489088
   },
   {
     "id": "cd864d23-d0fb-493a-9073-78f518222dc8",
     "name": "Sachsen-Anhalt",
     "code": "st",
-    "size": "280 MB"
+    "size": 293810176
   },
   {
     "id": "08b263d5-a9b3-4398-94e2-a248be398354",
     "name": "Schleswig-Holstein",
     "code": "sh",
-    "size": "240 MB"
+    "size": 251183104
   },
   {
     "id": "f2529a92-7abe-4f4e-986b-a37fcd32235a",
     "name": "Thüringen",
     "code": "th",
-    "size": "245 MB"
+    "size": 253865984
   }
 ]
